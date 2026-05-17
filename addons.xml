@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="skin.confluence.minsk" version="2025.8.28.1" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+<addon id="skin.confluence.minsk" version="2025.8.15.1" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+<addon id="skin.confluence.minsk" version="2025.8.14.1" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+
+<addon id="skin.confluence.minsk" version="2025.8.13.1" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+<addon id="skin.confluence.minsk" version="2025.8.12.1" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+<addon id="skin.confluence.minsk" version="2025.8.11.2" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+<addon id="metadata.themoviedb.org.python.mod"
+       name="CE群-G大-免梯TMDB电影刮削器"
+       version="3.1.1"
+       provider-name="Team Kodi,mod by glsimon">
+  <requires>
+    <import addon="xbmc.metadata" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.movies"
+             library="python/scraper.py"/>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <news>v3.1.1 (2025-03-21)
+- fix search for titles with accented characters
+- fix rare failure to find by IMDB number
+
+v3.1.0 (2024-12-28)
+- add option to increase available artwork per art type
+- fix for inability to scrape IMDB ratings
+
+v3.0.1 (2024-04-22)
+- fix scraper error when tags are disabled
+
+v3.0.0 (2024-04-17)
+- version 3 for Kodi 20 Nexus and above</news>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <forum>https://forum.kodi.tv/showthread.php?tid=344580</forum>
+    <website>https://www.themoviedb.org</website>
+    <source>https://github.com/xbmc/metadata.themoviedb.org.python</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+    <summary lang="en_GB">Python TMDB Movie Scraper</summary>
+    <summary lang="zh_CN">TMDB 电影刮削器</summary>
+    <description lang="en_GB">themoviedb.org is a free and open movie database. It&apos;s completely user driven by people like you. TMDb is currently used by millions of people every month and with their powerful API, it is also used by many popular media centers like Kodi to retrieve Movie Metadata, Posters and Fanart to enrich the user&apos;s experience.</description>
+    <description lang="zh_CN">themoviedb.org 是一个开放和自由的电影数据库。它完全由象你一样的用户来掌控。TMDb 每月为上百万用户提供服务，并通过强大的 API 界面为许多流行的媒体中心系统如 Kodi 提供电影资料、封面海报和同人画以丰富用户的体验。</description>
+  </extension>
+</addon>
+<addon id="metadata.tvshows.themoviedb.org.python.mod"
+  name="CE群-G大-免梯TMDB剧集刮削器"
+  version="1.7.0"
+  provider-name="Team Kodi,mod by glsimon">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="xbmc.metadata" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.tvshows" library="main.py" cachepersistence="00:15"/>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <news>1.7.0
+change method for getting source settings
+	</news>
+    <platform>all</platform>
+    <license>GPL-3.0-or-later</license>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+	<forum>https://forum.kodi.tv/showthread.php?tid=357232</forum>
+    <website>https://www.themoviedb.org</website>
+    <source>https://github.com/xbmc/metadata.tvshows.themoviedb.org.python</source>
+    <summary lang="en_GB">Fetch TV Show metadata from themoviedb.org</summary>
+    <summary lang="zh_CN">从 themoviedb.org 获取剧集信息</summary>
+    <description lang="en_GB">The Movie Database (TMDb) is a community built movie and TV database. Every piece of data has been added by our amazing community dating back to 2008. TMDb&apos;s strong international focus and breadth of data is largely unmatched and something we&apos;re incredibly proud of. Put simply, we live and breathe community and that&apos;s precisely what makes us different.</description>
+    <description lang="zh_CN">TMDb 是一个由网络社区创建的影视数据库。每一条数据都是由我们令人惊叹的社区添加的，可以追溯到2008年。TMDb 强大的国际关注度和数据广度在很大程度上是无与伦比的，我们对此感到无比自豪。简单地说，我们生活在社区中，呼吸着社区的气息，这正是我们与众不同的原因。</description>
+  </extension>
+</addon>
+<addon id="skin.confluence.minsk" version="2025.8.11.1" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+		<news>Omega update.</news>
+		<summary lang="zh_CN">明斯克改进的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">明斯克改进的面板 (Kodi 的預設面板)。</summary>
+		<description lang="zh_CN">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+		<description lang="zh_TW">本皮肤由CE交流群-明斯克基于Confluence皮肤深度优化打造，在保持流畅运行的前提下融合了多款流行皮肤的精华功能，并加入多项创新设计，致力于为CE爱好者提供极致的视觉体验与操作便利。
+主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
+	</extension>
+</addon>
+
+<addon id="script.skinvariables"
+version="2.1.33"
+name="Skin Variables"
+provider-name="jurialmunkey">
+<requires>
+  <import addon="xbmc.python" version="3.0.0" />
+  <import addon="script.module.jurialmunkey" version="0.2.28" />
+  <import addon="script.module.infotagger" version="0.0.5" />
+</requires>
+<extension point="xbmc.python.script" library="script.py" />
+<extension point="xbmc.python.pluginsource" library="plugin.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en_GB">Skin Variables helps skinners to construct variables and expressions for multiple containers and listitems using a template</summary>
+  <summary lang="fr_FR">Skin Variables aide les skinners à créer des variables et des expressions pour plusieurs conteneurs et listes à l'aide d'un modèle</summary>
+  <description lang="en_GB">Skin Variables helps skinners to construct variables and expressions for multiple containers and listitems using a template</description>
+  <description lang="fr_FR">Skin Variables aide les skinners à créer des variables et des expressions pour plusieurs conteneurs et listes à l'aide d'un modèle</description>
+  <disclaimer lang="en_GB">For skinners</disclaimer>
+  <disclaimer lang="fr_FR">Pour les skinners</disclaimer>
+  <license>GPL-3.0-or-later</license>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+</extension>
+</addon>
+<addon id="script.embuary.info" name="Embuary Info" version="2.0.8" provider-name="sualfred">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.9.1"/>
+        <import addon="script.module.arrow" version="0.10.0"/>
+        <import addon="script.module.simplecache" version="2.0.2" />
+        <import addon="script.module.routing" version="0.2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="plugin.py">
+      <provides>video</provides>
+    </extension>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Embuary Info Script</summary>
+        <summary lang="de_DE">Embuary Info Script</summary>
+        <description lang="en_GB">Helper script to provide The Movie DB informations for persons, shows and movies. Works best with a skin integration.</description>
+        <description lang="de_DE">Helfer Script das Abfragen von The Movie DB informationen für Personen, Serien und Filme zu ermöglichen. Funktioniert am besten mit einer Skin Integration.</description>
+        <platform>all</platform>
+        <license>Apache-2.0</license>
+        <forum>https://forum.kodi.tv/showthread.php?tid=346034</forum>
+        <source>https://github.com/sualfred/script.embuary.info</source>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+<addon id="plugin.video.themoviedb.helper"
+version="6.8.2"
+name="TMDb Helper"
+provider-name="jurialmunkey">
+<requires>
+  <import addon="xbmc.python" version="3.0.1"/>
+  <import addon="script.module.requests" version="2.9.1"/>
+  <import addon="script.module.pil" version="1.1.7"/>
+  <import addon="script.module.addon.signals" version="0.0.6" />
+  <import addon="script.module.jurialmunkey" version="0.2.28" />
+  <import addon="script.module.infotagger" version="0.0.5" />
+  <import addon="script.module.beautifulsoup4" version="4.9.3" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="resources/plugin.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.python.script" library="resources/script.py" />
+<extension point="xbmc.service" library="resources/service.py" />
+<extension point="xbmc.python.module" library="resources/modules"/>
+<extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>false</reuselanguageinvoker>
+  <summary lang="en_GB">TMDb Helper</summary>
+  <description lang="en_GB">TMDb Helper provides details about movies, tvshows and actors from TMDb. Users can access a variety of lists from TMDb TVDb MDbList and Trakt.</description>
+  <disclaimer lang="en_GB">Data provided by TMDb TVDb MDbList OMDb FanartTV and Trakt. Some of the information is provided by TheTVDB.com. Please consider supporting them. https://thetvdb.com/subscribe</disclaimer>
+  <license>GPL-3.0-or-later</license>
+  <website>https://github.com/jurialmunkey/plugin.video.themoviedb.helper</website>
+  <forum>https://forum.kodi.tv/showthread.php?tid=345847</forum>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+</extension>
+</addon>
+<addon id="repository.minsk-addons"
+        name="明斯克的插件仓库"
+         version="1.0"
+        provider-name="CE-minsk">
+    <extension point="xbmc.addon.repository"
+            name="minsk-addons-repo">
+          <dir minversion="19.0.0">
+            <info compressed="true">https://github.com/biuanb/minsk-addons-repo/raw/matrix/addons.xml</info>
+            <checksum>https://github.com/biuanb/minsk-addons-repo/raw/matrix/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/biuanb/minsk-addons-repo/raw/matrix/repo</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>repository.minsk-addons-repo</summary>
+        <summary lang="zh">明斯克的插件仓库</summary>
+        <description>CE玩家明斯克的插件仓库，包含魔改皮肤及一些依赖插件。</description>
+        <description lang="zh">CE玩家明斯克的插件仓库，包含魔改皮肤及一些依赖插件。</description>
+        <disclaimer>本库中魔改皮肤由明斯克开发，转载请注明出处。</disclaimer>
+        <disclaimer lang="zh">本库中魔改皮肤由明斯克开发，转载请注明出处。</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+</addons>
