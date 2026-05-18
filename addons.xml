@@ -30,7 +30,7 @@
 主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
 	</extension>
 </addon>
-<addon id="skin.confluence.minsk" version="2026.5.15.2" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
+<addon id="skin.confluence.minsk" version="2025.12.0.0" name="Confluence-明斯克" provider-name="Minsk, CE使用交流群">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
@@ -60,7 +60,6 @@
 主要功能集成了地平线风格海报墙，三行八列海报展示，光盘入盒滚动动画(可设置关闭)，剧集列表，播放页面可选剧集(书签)，播放页面加载剧情详情页和演员列表详情页，快捷选择字幕和音轨以及各种美化，更多细节欢迎各位喜爱KODI和CE的朋友深入体验。</description>
 	</extension>
 </addon>
-
 <addon id="script.skinvariables"
 version="2.1.33"
 name="Skin Variables"
