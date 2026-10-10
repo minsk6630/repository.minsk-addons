@@ -152,7 +152,7 @@ provider-name="jurialmunkey">
   </assets>
 </extension>
 </addon>
-<addon id="repository.minsk-addons"
+<addon id="repository.minsk-addons-repo"
         name="明斯克的插件仓库"
          version="1.2.0"
         provider-name="CE-minsk">
